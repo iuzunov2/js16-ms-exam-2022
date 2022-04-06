@@ -1,0 +1,7 @@
+0.HTTP znaci hyper text transfer protocol i ni ovozmozuva komunikacija pomegju clientite i web serverite
+1.REST - Representational state trasnfer ni ovozmozuva da kreirame API koe preku nego im ovozmozuva na korisnicite i na servisite da komuniciraat polesno megju sebe.
+2.
+3.Request od clientot i response od serverot
+4.POST PUT PATCH GET DELETE
+5.Node.js e biblioteka na JavaScript, a Express.js e framework na node.js.
+6.
